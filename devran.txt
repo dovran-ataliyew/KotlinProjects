@@ -1,5 +1,9 @@
 anadal 1.degsiskiklik
 
+<<<<<<< HEAD
 yandal2 de 1. degsiikik
 
 anadal 2. degsiislik
+=======
+yandal2 de 1. degsiikik
+>>>>>>> yandal2
