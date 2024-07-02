@@ -3,3 +3,5 @@ master dal 1. degsiklik
 yandalda 1. degisiklik
 
 acildalda 1.degisiklik
+
+acil dalda 2. degisiklik
