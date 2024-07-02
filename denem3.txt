@@ -6,3 +6,5 @@ anadal 2. degis
 anadal 3. degis
 
 yandal3 1.degis
+
+yandal3 2.degis
