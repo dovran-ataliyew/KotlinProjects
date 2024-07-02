@@ -4,3 +4,11 @@ anadal 1. degis
 anadal 2. degis
 
 anadal 3. degis
+
+yandal3 1.degis
+
+yandal3 2.degis
+
+yandal3 3.degis
+
+anadal 4.degis
